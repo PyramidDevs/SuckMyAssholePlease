@@ -1,0 +1,12 @@
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\bin\Debug\Pyramid Multi-Tool.exe.config
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\bin\Debug\Pyramid Multi-Tool.exe
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\bin\Debug\Pyramid Multi-Tool.pdb
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid Multi-Tool.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid_Multi_Tool.Calc.resources
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid_Multi_Tool.Main.resources
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid_Multi_Tool.Properties.Resources.resources
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid Multi-Tool.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid Multi-Tool.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid Multi-Tool.exe
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid Multi-Tool.pdb
+C:\Users\Samuel\Desktop\VIsual Studio Projects\Pyramid Multi-Tool\Pyramid Multi-Tool\obj\Debug\Pyramid_Multi_Tool.TskMngr.resources
